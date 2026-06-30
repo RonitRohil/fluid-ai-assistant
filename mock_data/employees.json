@@ -1,0 +1,42 @@
+[
+  {
+    "id": "E001",
+    "name": "Priya Sharma",
+    "department": "Engineering",
+    "role": "Senior Backend Engineer",
+    "email": "priya@acme.com",
+    "status": "active"
+  },
+  {
+    "id": "E002",
+    "name": "Rohan Mehta",
+    "department": "Product",
+    "role": "Product Manager",
+    "email": "rohan@acme.com",
+    "status": "active"
+  },
+  {
+    "id": "E003",
+    "name": "Anita Kapoor",
+    "department": "HR",
+    "role": "HR Lead",
+    "email": "anita@acme.com",
+    "status": "active"
+  },
+  {
+    "id": "E004",
+    "name": "Dev Patel",
+    "department": "Engineering",
+    "role": "DevOps Engineer",
+    "email": "dev@acme.com",
+    "status": "on_leave"
+  },
+  {
+    "id": "E005",
+    "name": "Sneha Gupta",
+    "department": "Sales",
+    "role": "Account Executive",
+    "email": "sneha@acme.com",
+    "status": "active"
+  }
+]
